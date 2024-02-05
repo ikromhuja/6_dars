@@ -1,24 +1,3 @@
-// const son = +prompt('Sonni kiriting')
-
-// if (son > 0) {
-//     console.log(son + 1)
-// } else {
-//     console.log(son - 2)
-// }
-
-// let son = 457818754
-// son = son.toString();
-
-// let reverseNumber = "";
-
-// let i = son.length - 1
-
-// while (0 <= i) {
-//     reverseNumber += son[i];
-//     i--;
-// }
-
-// console.log(reverseNumber == +son)
 
 // let son = 8275;
 // son = son.toString();
